@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+binary_search/__init__.py
+binary_search.egg-info/PKG-INFO
+binary_search.egg-info/SOURCES.txt
+binary_search.egg-info/dependency_links.txt
+binary_search.egg-info/top_level.txt

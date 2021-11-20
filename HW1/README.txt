@@ -1,0 +1,1 @@
+to run programs please put exercise images to resources folder

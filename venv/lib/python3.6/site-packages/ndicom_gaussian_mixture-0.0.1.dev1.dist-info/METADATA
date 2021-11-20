@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: ndicom-gaussian-mixture
+Version: 0.0.1.dev1
+Summary: UNKNOWN
+Home-page: http://github.com/reactmed/neurdicom-plugins
+Author: Roman Baygild
+Author-email: egdeveloper@mail.ru
+License: MIT
+Keywords: DICOM
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
+Requires-Dist: pydicom
+Requires-Dist: dipy
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+Requires-Dist: scikit-learn
+
+UNKNOWN
+
+
